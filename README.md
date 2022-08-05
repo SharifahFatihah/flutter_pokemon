@@ -1,4 +1,4 @@
-# pokemon
+# Pokemon
 
 A Pokemon game project by mobile development module.
 
