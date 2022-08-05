@@ -1,6 +1,6 @@
 # pokemon
 
-A new Flutter project.
+A Pokemon game project by mobile development module.
 
 ## Getting Started
 
